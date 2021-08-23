@@ -1,0 +1,1177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://smokehousejerky.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://smokehousejerky.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://smokehousejerky.com/collections/all.atom"/>
+  <title>Smokehouse Jerky Co.</title>
+  <updated>2021-06-16T22:54:34-07:00</updated>
+  <author>
+    <name>Smokehouse Jerky Co.</name>
+  </author>
+  <entry>
+    <id>https://smokehousejerky.com/products/4711971553383</id>
+    <published>2021-06-16T22:54:34-07:00</published>
+    <updated>2021-06-16T22:54:34-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://smokehousejerky.com/products/boysenberry-flavor"/>
+    <title>Boysenberry Flavor</title>
+    <s:type>Beef Jerky</s:type>
+    <s:vendor>Tender Heifer Snack Co</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2216/9951/products/Boysenberry-1oz.png?v=1600886703"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tender Heifer Snack Co<br>
+        <strong>Type: </strong>Beef Jerky<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span class="d2edcug0 hpfvmrgz qv66sw1b c1et5uql rrkovp55 a8c37x1j keod5gw0 nxhoafnm aigsh9s9 d3f4x2em fe6kdd0r mau55g9w c8b282yb iv3no6db jq4qci2q a3bd9o3v knj5qynh oo9gr5id" dir="auto" data-mce-fragment="1">This is one of our best jerky flavors and it's gluten-free! I know it isn’t traditional, but shouldn’t jerky have a character of its own? We make this for Knotts Berry Farm each year when they have their Boysenberry Festival and for private label clients.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beef Jerky</s:tag>
+    <s:tag>beef jerky sample pack</s:tag>
+    <s:tag>best beef jerky</s:tag>
+    <s:tag>best jerky online</s:tag>
+    <s:tag>best online jerky</s:tag>
+    <s:tag>best protein snack</s:tag>
+    <s:tag>closest beef jerky</s:tag>
+    <s:tag>gluten free</s:tag>
+    <s:tag>healthy snack</s:tag>
+    <s:tag>private label beef jerky</s:tag>
+    <s:tag>private label jerky</s:tag>
+    <s:tag>protein</s:tag>
+    <s:variant>
+      <id>https://smokehousejerky.com/products/4711971553383</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>85</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://smokehousejerky.com/products/6567172604007</id>
+    <published>2021-06-16T18:03:41-07:00</published>
+    <updated>2021-06-16T18:03:41-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://smokehousejerky.com/products/smokehouse-jerky-gift-card"/>
+    <title>Smokehouse Jerky Gift Card</title>
+    <s:type></s:type>
+    <s:vendor>Smokehouse Jerky Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2216/9951/products/FacebookAd.png?v=1623891512"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Smokehouse Jerky Co.<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            25.00 - 200.00
+            <a href="https://smokehousejerky.com/products/smokehouse-jerky-gift-card">(7 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Share your love of quality, gourmet jerky products with all your friends and family. Not sure what they like? No problem. Get them a Smokehouse Jerky Gift Card and let them pick the ones they like.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://smokehousejerky.com/products/6567172604007</id>
+      <title>$25.00</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://smokehousejerky.com/products/6567172604007</id>
+      <title>$35.00</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://smokehousejerky.com/products/6567172604007</id>
+      <title>$50.00</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://smokehousejerky.com/products/6567172604007</id>
+      <title>$75.00</title>
+      <s:price currency="USD">75.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://smokehousejerky.com/products/6567172604007</id>
+      <title>$100.00</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://smokehousejerky.com/products/6567172604007</id>
+      <title>$150.00</title>
+      <s:price currency="USD">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://smokehousejerky.com/products/6567172604007</id>
+      <title>$200.00</title>
+      <s:price currency="USD">200.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://smokehousejerky.com/products/4709439930471</id>
+    <published>2021-04-30T15:52:00-07:00</published>
+    <updated>2021-04-30T15:52:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://smokehousejerky.com/products/3oz-turkey-variety-pack"/>
+    <title>Turkey Variety Pack</title>
+    <s:type></s:type>
+    <s:vendor>Tender Heifer Snack Co</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2216/9951/products/3ozTurkeyVarietyPack.png?v=1600824630"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tender Heifer Snack Co<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Get a 3oz bag of our delicious Turkey Jerky! We currently make Carolina Reaper, Korean BBQ, Southwest BBQ, Spicy Sweet, and Teriyaki. These are the same as our beef flavors.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>turkey jerky</s:tag>
+    <s:variant>
+      <id>https://smokehousejerky.com/products/4709439930471</id>
+      <title>Default Title</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>85</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://smokehousejerky.com/products/6552254742631</id>
+    <published>2021-04-20T16:40:09-07:00</published>
+    <updated>2021-04-20T16:40:09-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://smokehousejerky.com/products/armegeddon-beef-jerky"/>
+    <title>Armegeddon Brisket Beef Jerky 1/2 oz</title>
+    <s:type>Beef Jerky</s:type>
+    <s:vendor>Smokehouse Jerky Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2216/9951/products/ArmageddonPt5oz.jpg?v=1618962378"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Smokehouse Jerky Co.<br>
+        <strong>Type: </strong>Beef Jerky<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Carolina Reaper just not hot enough for you? Looking to get a new challenge started? We have the PERFECT jerky for you right here!</p>
+<p>Made with Habanero, Ghost Pepper, Carolina Reaper, and Trinidad Scorpion, this half-ounce bag is hard to finish.</p>
+<p>Here is a Fire Eater having trouble talking with our Armegeddon: <a href="https://www.facebook.com/tenderheifersnackco/posts/131997158897987" title="Can You Eat A Bag of Armegeddon?">Can You Eat A Bag of  Armegeddon?</a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>carolina reaper</s:tag>
+    <s:tag>Ghost Pepper</s:tag>
+    <s:tag>Habanero</s:tag>
+    <s:tag>hottest flavor</s:tag>
+    <s:tag>hottest jerky</s:tag>
+    <s:tag>Trinidad Scorpion</s:tag>
+    <s:variant>
+      <id>https://smokehousejerky.com/products/6552254742631</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://smokehousejerky.com/products/4784028287079</id>
+    <published>2021-02-16T22:14:58-08:00</published>
+    <updated>2021-02-16T22:14:58-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://smokehousejerky.com/products/1-2-pound-of-hot-beef-sticks"/>
+    <title>1/2 Pound of Hot Beef Sticks</title>
+    <s:type></s:type>
+    <s:vendor>Smokehouse Jerky Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2216/9951/products/HotSticks-01.png?v=1616739496"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Smokehouse Jerky Co.<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">One half pound of delicious, gourmet beef sticks! We make and sell only the very best!</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://smokehousejerky.com/products/4784028287079</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>408</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://smokehousejerky.com/products/4784028024935</id>
+    <published>2021-02-16T22:09:48-08:00</published>
+    <updated>2021-02-16T22:09:48-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://smokehousejerky.com/products/1-2-pound-of-peppered-beef-sticks"/>
+    <title>1/2 Pound of Peppered Beef Sticks</title>
+    <s:type></s:type>
+    <s:vendor>Smokehouse Jerky Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2216/9951/products/PepperedSticks-01.png?v=1613542181"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Smokehouse Jerky Co.<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">One half pound of delicious, gourmet beef sticks! We make and sell only the very best!</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://smokehousejerky.com/products/4784028024935</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>26</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://smokehousejerky.com/products/4784027893863</id>
+    <published>2021-02-16T22:05:15-08:00</published>
+    <updated>2021-02-16T22:05:15-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://smokehousejerky.com/products/teriyaki-beef-sticks"/>
+    <title>1/2 Pound of Teriyaki Beef Sticks</title>
+    <s:type></s:type>
+    <s:vendor>Smokehouse Jerky Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2216/9951/products/TeriyakiSticks.png?v=1613541905"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Smokehouse Jerky Co.<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">One half pound of delicious, gourmet beef sticks! We make and sell only the very best!</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://smokehousejerky.com/products/4784027893863</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>26</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://smokehousejerky.com/products/4775110377575</id>
+    <published>2021-01-24T22:34:42-08:00</published>
+    <updated>2021-01-24T22:34:42-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://smokehousejerky.com/products/gourmet-dog-jerky-treats"/>
+    <title>Gourmet Dog Jerky Treats</title>
+    <s:type></s:type>
+    <s:vendor>Smokehouse Jerky Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2216/9951/products/IMG_1113.jpg?v=1611556485"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Smokehouse Jerky Co.<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span class="d2edcug0 hpfvmrgz qv66sw1b c1et5uql rrkovp55 a8c37x1j keod5gw0 nxhoafnm aigsh9s9 d3f4x2em fe6kdd0r mau55g9w c8b282yb iv3no6db jq4qci2q a3bd9o3v knj5qynh oo9gr5id hzawbc8m" dir="auto" data-mce-fragment="1">Jerky is a savory treat that can be healthier than traditional snack foods. Your pets can now enjoy this healthy treat made from the same brisket we make our gourmet jerky with, just minus all the ingredients for human consumption. </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://smokehousejerky.com/products/4775110377575</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>43</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://smokehousejerky.com/products/4772583833703</id>
+    <published>2021-01-16T22:27:49-08:00</published>
+    <updated>2021-01-16T22:27:49-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://smokehousejerky.com/products/sweet-peppered-beef-sticks"/>
+    <title>1/2 Pound of Sweet Peppered Beef Sticks</title>
+    <s:type>Beef Stick</s:type>
+    <s:vendor>Tender Heifer Snack Co</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2216/9951/products/SweetPepperedBeefSticks.png?v=1612159437"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tender Heifer Snack Co<br>
+        <strong>Type: </strong>Beef Stick<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">One half pound of delicious, gourmet beef sticks! We make and sell only the very best!</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>beef jerky maker</s:tag>
+    <s:tag>best beef jerky</s:tag>
+    <s:tag>best jerky online</s:tag>
+    <s:tag>best jerky sample pack</s:tag>
+    <s:tag>best online jerky</s:tag>
+    <s:tag>best online jerkyonline</s:tag>
+    <s:tag>best protein snack</s:tag>
+    <s:tag>closest beef jerky</s:tag>
+    <s:tag>healthiest protein snack</s:tag>
+    <s:tag>healthiest snack</s:tag>
+    <s:tag>healthy snack</s:tag>
+    <s:tag>nutrition</s:tag>
+    <s:tag>nutrition snack</s:tag>
+    <s:tag>nutritional snack</s:tag>
+    <s:tag>private label beef jerky</s:tag>
+    <s:tag>private label jerky</s:tag>
+    <s:tag>protein</s:tag>
+    <s:tag>protein snack</s:tag>
+    <s:variant>
+      <id>https://smokehousejerky.com/products/4772583833703</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>26</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://smokehousejerky.com/products/4772580720743</id>
+    <published>2021-01-16T22:26:11-08:00</published>
+    <updated>2021-01-16T22:26:11-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://smokehousejerky.com/products/original-flavored-beef-sticks"/>
+    <title>1/2 Pound of Original Flavored Beef Sticks</title>
+    <s:type>Beef Stick</s:type>
+    <s:vendor>Tender Heifer Snack Co</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2216/9951/products/OriginalBeefSticks.png?v=1610863227"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tender Heifer Snack Co<br>
+        <strong>Type: </strong>Beef Stick<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Get this 1/2 lb of premium beef sticks made from the best meat!</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>beef jerky maker</s:tag>
+    <s:tag>best jerky online</s:tag>
+    <s:tag>best jerky sample pack</s:tag>
+    <s:tag>best online jerky</s:tag>
+    <s:tag>best online jerkyonline</s:tag>
+    <s:tag>best protein snack</s:tag>
+    <s:tag>healthiest protein snack</s:tag>
+    <s:tag>healthiest snack</s:tag>
+    <s:tag>healthy snack</s:tag>
+    <s:tag>nutrition</s:tag>
+    <s:tag>nutrition snack</s:tag>
+    <s:tag>nutritional snack</s:tag>
+    <s:tag>private label beef jerky</s:tag>
+    <s:tag>private label jerky</s:tag>
+    <s:tag>protein</s:tag>
+    <s:tag>protein snack</s:tag>
+    <s:variant>
+      <id>https://smokehousejerky.com/products/4772580720743</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>26</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://smokehousejerky.com/products/4771650863207</id>
+    <published>2021-01-14T16:29:57-08:00</published>
+    <updated>2021-01-14T16:29:57-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://smokehousejerky.com/products/honey-pepper-bacon-jerky"/>
+    <title>Honey Pepper Bacon Jerky 2oz- GLUTEN FREE</title>
+    <s:type>Bacon Jerky</s:type>
+    <s:vendor>Smokehouse Jerky Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2216/9951/products/BaconHoneyPepper2ozpng_Page1.png?v=1610683993"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Smokehouse Jerky Co.<br>
+        <strong>Type: </strong>Bacon Jerky<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span class="fontstyle0" data-mce-fragment="1">The sweet taste of honey and the bold kick of black pepper. </span><span class="fontstyle0" style="color: #222222;" data-mce-fragment="1" data-mce-style="color: #222222;">Gluten-Free</span> <br style="font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;" data-mce-fragment="1" data-mce-style="font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://smokehousejerky.com/products/4771650863207</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://smokehousejerky.com/products/4688369123431</id>
+    <published>2020-09-03T22:42:01-07:00</published>
+    <updated>2020-09-03T22:42:01-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://smokehousejerky.com/products/straight-whiskey"/>
+    <title>Straight Whiskey Brisket Beef Jerky</title>
+    <s:type>Beef Jerky</s:type>
+    <s:vendor>Tender Heifer Snack Co</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2216/9951/products/StriaghtWhiskey-3oz.png?v=1599198121"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tender Heifer Snack Co<br>
+        <strong>Type: </strong>Beef Jerky<br>
+        <strong>Price: </strong>
+            4.35 - 8.10
+            <a href="https://smokehousejerky.com/products/straight-whiskey">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Our newest flavor is Straight Whiskey. Made with Kentucky Bourbon, the taste is better than you can imagine.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beef Jerky</s:tag>
+    <s:tag>beef jerky maker</s:tag>
+    <s:tag>beef jerky sample pack</s:tag>
+    <s:tag>best jerky online</s:tag>
+    <s:tag>best online jerky</s:tag>
+    <s:tag>best online jerkyonline</s:tag>
+    <s:tag>best protein snack</s:tag>
+    <s:tag>closest beef jerky</s:tag>
+    <s:tag>private label beef jerky</s:tag>
+    <s:tag>private label jerky</s:tag>
+    <s:tag>protein</s:tag>
+    <s:tag>protein snack</s:tag>
+    <s:variant>
+      <id>https://smokehousejerky.com/products/4688369123431</id>
+      <title>1oz</title>
+      <s:price currency="USD">4.35</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://smokehousejerky.com/products/4688369123431</id>
+      <title>3oz</title>
+      <s:price currency="USD">8.10</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://smokehousejerky.com/products/4679480574055</id>
+    <published>2020-08-20T22:45:40-07:00</published>
+    <updated>2020-08-20T22:45:40-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://smokehousejerky.com/products/teriyaki-turkey-jerky"/>
+    <title>Teriyaki Turkey Jerky</title>
+    <s:type></s:type>
+    <s:vendor>Tender Heifer Snack Co</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2216/9951/products/TURKEY-Teriyaki-3oz.png?v=1597988741"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tender Heifer Snack Co<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4.25 - 16.99
+            <a href="https://smokehousejerky.com/products/teriyaki-turkey-jerky">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Get some of the best Teriyaki Turkey jerky available.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>turkey</s:tag>
+    <s:variant>
+      <id>https://smokehousejerky.com/products/4679480574055</id>
+      <title>1oz</title>
+      <s:price currency="USD">4.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://smokehousejerky.com/products/4679480574055</id>
+      <title>3oz</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://smokehousejerky.com/products/4679480574055</id>
+      <title>7oz</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://smokehousejerky.com/products/4679479656551</id>
+    <published>2020-08-20T22:43:05-07:00</published>
+    <updated>2020-08-20T22:43:05-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://smokehousejerky.com/products/spicy-sweet-turkey-jerky"/>
+    <title>Spicy Sweet Turkey Jerky</title>
+    <s:type></s:type>
+    <s:vendor>Tender Heifer Snack Co</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2216/9951/products/TURKEY-SpicySweet-3oz.png?v=1597988575"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tender Heifer Snack Co<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4.25 - 16.99
+            <a href="https://smokehousejerky.com/products/spicy-sweet-turkey-jerky">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This is our Spicy Sweet beef flavor...in Turkey!</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>turkey</s:tag>
+    <s:variant>
+      <id>https://smokehousejerky.com/products/4679479656551</id>
+      <title>1oz</title>
+      <s:price currency="USD">4.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://smokehousejerky.com/products/4679479656551</id>
+      <title>3oz</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://smokehousejerky.com/products/4679479656551</id>
+      <title>7oz</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://smokehousejerky.com/products/4679478509671</id>
+    <published>2020-08-20T22:39:02-07:00</published>
+    <updated>2020-08-20T22:39:02-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://smokehousejerky.com/products/southwest-bbq"/>
+    <title>Southwest BBQ Turkey Jerky</title>
+    <s:type></s:type>
+    <s:vendor>Tender Heifer Snack Co</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2216/9951/products/TURKEY-SmokyBBQ-3oz.png?v=1597988342"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tender Heifer Snack Co<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4.25 - 16.99
+            <a href="https://smokehousejerky.com/products/southwest-bbq">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This turkey flavor is the same as our Smoky BBQ.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>turkey</s:tag>
+    <s:variant>
+      <id>https://smokehousejerky.com/products/4679478509671</id>
+      <title>1oz</title>
+      <s:price currency="USD">4.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://smokehousejerky.com/products/4679478509671</id>
+      <title>3oz</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://smokehousejerky.com/products/4679478509671</id>
+      <title>7oz</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>3175</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://smokehousejerky.com/products/4679474872423</id>
+    <published>2020-08-20T22:27:47-07:00</published>
+    <updated>2020-08-20T22:27:47-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://smokehousejerky.com/products/korean-bbq-turkey-jerky"/>
+    <title>Korean BBQ Turkey Jerky</title>
+    <s:type></s:type>
+    <s:vendor>Tender Heifer Snack Co</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2216/9951/products/TURKEY-KoreanBBQ-3oz.png?v=1597987667"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tender Heifer Snack Co<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4.25 - 16.99
+            <a href="https://smokehousejerky.com/products/korean-bbq-turkey-jerky">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Our new Korean BBQ Turkey jerky is just as amazing as the beef flavor.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>turkey</s:tag>
+    <s:tag>turkey beef jerky</s:tag>
+    <s:tag>turkey jerky</s:tag>
+    <s:variant>
+      <id>https://smokehousejerky.com/products/4679474872423</id>
+      <title>1oz</title>
+      <s:price currency="USD">4.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://smokehousejerky.com/products/4679474872423</id>
+      <title>3oz</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>85</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://smokehousejerky.com/products/4679474872423</id>
+      <title>7oz</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>198</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://smokehousejerky.com/products/4679465271399</id>
+    <published>2020-08-20T22:02:44-07:00</published>
+    <updated>2020-08-20T22:02:44-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://smokehousejerky.com/products/carolina-reaper-turkey-jerky"/>
+    <title>Carolina Reaper Turkey Jerky</title>
+    <s:type></s:type>
+    <s:vendor>Tender Heifer Snack Co</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2216/9951/products/TURKEY-CarolinaReaper-3oz.png?v=1597986454"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tender Heifer Snack Co<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4.35 - 17.99
+            <a href="https://smokehousejerky.com/products/carolina-reaper-turkey-jerky">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">The hottest jerky available...in Turkey!</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>turkey</s:tag>
+    <s:tag>turkey beef jerky</s:tag>
+    <s:tag>turkey jerky</s:tag>
+    <s:variant>
+      <id>https://smokehousejerky.com/products/4679465271399</id>
+      <title>1oz</title>
+      <s:price currency="USD">4.35</s:price>
+      <s:sku></s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://smokehousejerky.com/products/4679465271399</id>
+      <title>3oz</title>
+      <s:price currency="USD">8.10</s:price>
+      <s:sku></s:sku>
+      <s:grams>85</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://smokehousejerky.com/products/4679465271399</id>
+      <title>7oz</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>198</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://smokehousejerky.com/products/4679462781031</id>
+    <published>2020-08-20T21:55:11-07:00</published>
+    <updated>2020-08-20T21:55:11-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://smokehousejerky.com/products/volcanic-jalapeno-beef-jerky"/>
+    <title>Volcanic Jalapeno Brisket Beef Jerky</title>
+    <s:type>Beef Jerky</s:type>
+    <s:vendor>Tender Heifer Snack Co</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2216/9951/products/VolcanicJalapeno-3oz.png?v=1597985752"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tender Heifer Snack Co<br>
+        <strong>Type: </strong>Beef Jerky<br>
+        <strong>Price: </strong>
+            4.25 - 7.99
+            <a href="https://smokehousejerky.com/products/volcanic-jalapeno-beef-jerky">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This flavor is best described as middle of the road of our <a href="https://smokehousejerky.com/products/ghost-pepper-beef-jerky" target="_blank" title="Ghost Pepper" rel="noopener noreferrer">Ghost Pepper</a> and <a href="https://smokehousejerky.com/products/oh-thats-hot-jalapeno-beef-jerky" target="_blank" title="Oh That's Hot" rel="noopener noreferrer">Oh That's Hot</a> jerky.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beef Jerky</s:tag>
+    <s:tag>beef jerky maker</s:tag>
+    <s:tag>beef jerky sample pack</s:tag>
+    <s:tag>best beef jerky</s:tag>
+    <s:tag>best jerky online</s:tag>
+    <s:tag>best online jerky</s:tag>
+    <s:tag>best protein snack</s:tag>
+    <s:tag>closest beef jerky</s:tag>
+    <s:tag>healthiest protein snack</s:tag>
+    <s:tag>healthiest snack</s:tag>
+    <s:tag>healthy snack</s:tag>
+    <s:tag>Hot</s:tag>
+    <s:tag>Jalapeno</s:tag>
+    <s:tag>nearest beef jerky</s:tag>
+    <s:tag>protein</s:tag>
+    <s:variant>
+      <id>https://smokehousejerky.com/products/4679462781031</id>
+      <title>1oz</title>
+      <s:price currency="USD">4.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>43</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://smokehousejerky.com/products/4679462781031</id>
+      <title>3oz</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>85</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://smokehousejerky.com/products/4530060132455</id>
+    <published>2020-06-29T11:10:03-07:00</published>
+    <updated>2020-06-29T11:10:03-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://smokehousejerky.com/products/bulk-beef-bacon-box"/>
+    <title>Beef &amp; Bacon Jerky Bulk Variety Pack</title>
+    <s:type>Beef Jerky</s:type>
+    <s:vendor>Tender Heifer Snack Co</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2216/9951/products/BulkVarietyPack_1.png?v=1600129998"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tender Heifer Snack Co<br>
+        <strong>Type: </strong>Beef Jerky<br>
+        <strong>Price: </strong>
+            140.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>﻿Direct To Your Door</strong></p>
+<p><strong>FREE SHIPPING</strong></p>
+<p><strong>SAVE $43.77 off the regular price</strong></p>
+<p>Get 3oz bags of all 20 Beef and 2oz bags of our 4 Bacon flavors. <strong></strong></p>
+<p>Jerky is the perfect shelf-stable food since it provides lots of protein and has a 12-month shelf-life.</p>
+<p>We use 100% USDA Brisket beef and the best bacon available on the market.</p>
+<br>
+<p style="text-align: center;"> <br></p>
+<p style="text-align: center;"> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beef Jerky</s:tag>
+    <s:tag>best jerky online</s:tag>
+    <s:tag>best online jerky</s:tag>
+    <s:tag>best online jerkyonline</s:tag>
+    <s:tag>best protein snack</s:tag>
+    <s:tag>bulk jerky</s:tag>
+    <s:tag>gluten free</s:tag>
+    <s:tag>healthiest protein snack</s:tag>
+    <s:tag>healthiest snack</s:tag>
+    <s:tag>healthy snack</s:tag>
+    <s:tag>nutrition snack</s:tag>
+    <s:tag>price_$101 to $150</s:tag>
+    <s:tag>protein</s:tag>
+    <s:tag>protein snack</s:tag>
+    <s:variant>
+      <id>https://smokehousejerky.com/products/4530060132455</id>
+      <title>Default Title</title>
+      <s:price currency="USD">140.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://smokehousejerky.com/products/4342171172967</id>
+    <published>2020-06-29T11:10:01-07:00</published>
+    <updated>2020-06-29T11:10:01-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://smokehousejerky.com/products/lemon-pepper-beef-jerky"/>
+    <title>Lemon Pepper Brisket Beef Jerky</title>
+    <s:type>Beef Jerky</s:type>
+    <s:vendor>Tender Heifer Snack Co</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2216/9951/products/LemonPepperBeefJerky.png?v=1595368838"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tender Heifer Snack Co<br>
+        <strong>Type: </strong>Beef Jerky<br>
+        <strong>Price: </strong>
+            4.25 - 7.99
+            <a href="https://smokehousejerky.com/products/lemon-pepper-beef-jerky">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Lemon Pepper is a popular spice for cooking and it really makes jerky taste great!</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://smokehousejerky.com/products/4342171172967</id>
+      <title>1oz</title>
+      <s:price currency="USD">4.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://smokehousejerky.com/products/4342171172967</id>
+      <title>3oz</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://smokehousejerky.com/products/4342046589031</id>
+    <published>2020-06-29T11:10:00-07:00</published>
+    <updated>2020-06-29T11:10:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://smokehousejerky.com/products/dill-pickle-beef-jerky"/>
+    <title>Dill Flavor Brisket Beef Jerky</title>
+    <s:type>Beef Jerky</s:type>
+    <s:vendor>Tender Heifer Snack Co</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2216/9951/products/DillBeefJerky.png?v=1599803790"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tender Heifer Snack Co<br>
+        <strong>Type: </strong>Beef Jerky<br>
+        <strong>Price: </strong>
+            4.25 - 7.99
+            <a href="https://smokehousejerky.com/products/dill-pickle-beef-jerky">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">One of our two newest flavors. Our dill pickle jerky recipe tastes so good you just need a hamburger bun and bag of chips!</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>flavor_Dill Style</s:tag>
+    <s:variant>
+      <id>https://smokehousejerky.com/products/4342046589031</id>
+      <title>1oz</title>
+      <s:price currency="USD">4.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://smokehousejerky.com/products/4342046589031</id>
+      <title>3oz</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://smokehousejerky.com/products/4342010314855</id>
+    <published>2020-06-29T11:09:59-07:00</published>
+    <updated>2020-06-29T11:09:59-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://smokehousejerky.com/products/maui-licious-original-beef-jerky"/>
+    <title>Maui-Licious Original Beef Jerky</title>
+    <s:type>Beef Jerky</s:type>
+    <s:vendor>Tender Heifer Snack Co</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2216/9951/products/Original_LRG_BAG.png?v=1573019512"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tender Heifer Snack Co<br>
+        <strong>Type: </strong>Beef Jerky<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">A unique twist on a classic flavor.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://smokehousejerky.com/products/4342010314855</id>
+      <title>3oz</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>96</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://smokehousejerky.com/products/4342003368039</id>
+    <published>2020-06-29T11:09:58-07:00</published>
+    <updated>2020-06-29T11:09:58-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://smokehousejerky.com/products/maui-licious-sweet-spicy-beef-jerky"/>
+    <title>Maui-Licious Sweet &amp; Spicy Beef Jerky</title>
+    <s:type>Beef Jerky</s:type>
+    <s:vendor>Tender Heifer Snack Co</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2216/9951/products/Smallbag_SweetNSpicy.jpg?v=1595357323"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tender Heifer Snack Co<br>
+        <strong>Type: </strong>Beef Jerky<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">A fast fan-favorite Sweet &amp; Spicy! Just the right amount of heat!</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://smokehousejerky.com/products/4342003368039</id>
+      <title>3oz</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://smokehousejerky.com/products/4341996912743</id>
+    <published>2020-06-29T11:09:57-07:00</published>
+    <updated>2020-06-29T11:09:57-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://smokehousejerky.com/products/maui-licious-teriyaki-beef-jerky"/>
+    <title>Maui-Licious Teriyaki Beef Jerky</title>
+    <s:type>Beef Jerky</s:type>
+    <s:vendor>Tender Heifer Snack Co</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2216/9951/products/LRG_TeriyakiBag.png?v=1573018746"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tender Heifer Snack Co<br>
+        <strong>Type: </strong>Beef Jerky<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Teriyaki that will delight your tastebuds!</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://smokehousejerky.com/products/4341996912743</id>
+      <title>3oz</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>1542</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://smokehousejerky.com/products/4341994192999</id>
+    <published>2020-06-29T11:09:57-07:00</published>
+    <updated>2020-06-29T11:09:57-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://smokehousejerky.com/products/maui-licious-hot-beef-jerky"/>
+    <title>Maui-Licious Hot Beef Jerky</title>
+    <s:type>Beef Jerky</s:type>
+    <s:vendor>Tender Heifer Snack Co</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2216/9951/products/HOT_LRG.png?v=1573018581"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tender Heifer Snack Co<br>
+        <strong>Type: </strong>Beef Jerky<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A fresh new spicy flavor right from the Big Island!</p>
+<p>A unique recipe unlike any you've tasted before.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://smokehousejerky.com/products/4341994192999</id>
+      <title>3oz</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+</feed>

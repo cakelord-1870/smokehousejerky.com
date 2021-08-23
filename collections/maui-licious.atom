@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://smokehousejerky.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://smokehousejerky.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://smokehousejerky.com/collections/maui-licious.atom"/>
+  <title>Smokehouse Jerky Co.</title>
+  <updated>2020-06-29T11:09:59-07:00</updated>
+  <author>
+    <name>Smokehouse Jerky Co.</name>
+  </author>
+  <entry>
+    <id>https://smokehousejerky.com/products/4342010314855</id>
+    <published>2020-06-29T11:09:59-07:00</published>
+    <updated>2020-06-29T11:09:59-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://smokehousejerky.com/products/maui-licious-original-beef-jerky"/>
+    <title>Maui-Licious Original Beef Jerky</title>
+    <s:type>Beef Jerky</s:type>
+    <s:vendor>Tender Heifer Snack Co</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2216/9951/products/Original_LRG_BAG.png?v=1573019512"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tender Heifer Snack Co<br>
+        <strong>Type: </strong>Beef Jerky<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">A unique twist on a classic flavor.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://smokehousejerky.com/products/4342010314855</id>
+      <title>3oz</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>96</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://smokehousejerky.com/products/4342003368039</id>
+    <published>2020-06-29T11:09:58-07:00</published>
+    <updated>2020-06-29T11:09:58-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://smokehousejerky.com/products/maui-licious-sweet-spicy-beef-jerky"/>
+    <title>Maui-Licious Sweet &amp; Spicy Beef Jerky</title>
+    <s:type>Beef Jerky</s:type>
+    <s:vendor>Tender Heifer Snack Co</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2216/9951/products/Smallbag_SweetNSpicy.jpg?v=1595357323"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tender Heifer Snack Co<br>
+        <strong>Type: </strong>Beef Jerky<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">A fast fan-favorite Sweet &amp; Spicy! Just the right amount of heat!</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://smokehousejerky.com/products/4342003368039</id>
+      <title>3oz</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://smokehousejerky.com/products/4341996912743</id>
+    <published>2020-06-29T11:09:57-07:00</published>
+    <updated>2020-06-29T11:09:57-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://smokehousejerky.com/products/maui-licious-teriyaki-beef-jerky"/>
+    <title>Maui-Licious Teriyaki Beef Jerky</title>
+    <s:type>Beef Jerky</s:type>
+    <s:vendor>Tender Heifer Snack Co</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2216/9951/products/LRG_TeriyakiBag.png?v=1573018746"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tender Heifer Snack Co<br>
+        <strong>Type: </strong>Beef Jerky<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Teriyaki that will delight your tastebuds!</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://smokehousejerky.com/products/4341996912743</id>
+      <title>3oz</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>1542</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://smokehousejerky.com/products/4341994192999</id>
+    <published>2020-06-29T11:09:57-07:00</published>
+    <updated>2020-06-29T11:09:57-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://smokehousejerky.com/products/maui-licious-hot-beef-jerky"/>
+    <title>Maui-Licious Hot Beef Jerky</title>
+    <s:type>Beef Jerky</s:type>
+    <s:vendor>Tender Heifer Snack Co</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2216/9951/products/HOT_LRG.png?v=1573018581"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tender Heifer Snack Co<br>
+        <strong>Type: </strong>Beef Jerky<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A fresh new spicy flavor right from the Big Island!</p>
+<p>A unique recipe unlike any you've tasted before.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://smokehousejerky.com/products/4341994192999</id>
+      <title>3oz</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+</feed>

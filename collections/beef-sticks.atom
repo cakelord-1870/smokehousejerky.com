@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://smokehousejerky.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://smokehousejerky.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://smokehousejerky.com/collections/beef-sticks.atom"/>
+  <title>Smokehouse Jerky Co.</title>
+  <updated>2021-02-16T22:14:58-08:00</updated>
+  <author>
+    <name>Smokehouse Jerky Co.</name>
+  </author>
+  <entry>
+    <id>https://smokehousejerky.com/products/4784028287079</id>
+    <published>2021-02-16T22:14:58-08:00</published>
+    <updated>2021-02-16T22:14:58-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://smokehousejerky.com/products/1-2-pound-of-hot-beef-sticks"/>
+    <title>1/2 Pound of Hot Beef Sticks</title>
+    <s:type></s:type>
+    <s:vendor>Smokehouse Jerky Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2216/9951/products/HotSticks-01.png?v=1616739496"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Smokehouse Jerky Co.<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">One half pound of delicious, gourmet beef sticks! We make and sell only the very best!</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://smokehousejerky.com/products/4784028287079</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>408</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://smokehousejerky.com/products/4784028024935</id>
+    <published>2021-02-16T22:09:48-08:00</published>
+    <updated>2021-02-16T22:09:48-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://smokehousejerky.com/products/1-2-pound-of-peppered-beef-sticks"/>
+    <title>1/2 Pound of Peppered Beef Sticks</title>
+    <s:type></s:type>
+    <s:vendor>Smokehouse Jerky Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2216/9951/products/PepperedSticks-01.png?v=1613542181"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Smokehouse Jerky Co.<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">One half pound of delicious, gourmet beef sticks! We make and sell only the very best!</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://smokehousejerky.com/products/4784028024935</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>26</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://smokehousejerky.com/products/4784027893863</id>
+    <published>2021-02-16T22:05:15-08:00</published>
+    <updated>2021-02-16T22:05:15-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://smokehousejerky.com/products/teriyaki-beef-sticks"/>
+    <title>1/2 Pound of Teriyaki Beef Sticks</title>
+    <s:type></s:type>
+    <s:vendor>Smokehouse Jerky Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2216/9951/products/TeriyakiSticks.png?v=1613541905"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Smokehouse Jerky Co.<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">One half pound of delicious, gourmet beef sticks! We make and sell only the very best!</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://smokehousejerky.com/products/4784027893863</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>26</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://smokehousejerky.com/products/4772583833703</id>
+    <published>2021-01-16T22:27:49-08:00</published>
+    <updated>2021-01-16T22:27:49-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://smokehousejerky.com/products/sweet-peppered-beef-sticks"/>
+    <title>1/2 Pound of Sweet Peppered Beef Sticks</title>
+    <s:type>Beef Stick</s:type>
+    <s:vendor>Tender Heifer Snack Co</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2216/9951/products/SweetPepperedBeefSticks.png?v=1612159437"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tender Heifer Snack Co<br>
+        <strong>Type: </strong>Beef Stick<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">One half pound of delicious, gourmet beef sticks! We make and sell only the very best!</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>beef jerky maker</s:tag>
+    <s:tag>best beef jerky</s:tag>
+    <s:tag>best jerky online</s:tag>
+    <s:tag>best jerky sample pack</s:tag>
+    <s:tag>best online jerky</s:tag>
+    <s:tag>best online jerkyonline</s:tag>
+    <s:tag>best protein snack</s:tag>
+    <s:tag>closest beef jerky</s:tag>
+    <s:tag>healthiest protein snack</s:tag>
+    <s:tag>healthiest snack</s:tag>
+    <s:tag>healthy snack</s:tag>
+    <s:tag>nutrition</s:tag>
+    <s:tag>nutrition snack</s:tag>
+    <s:tag>nutritional snack</s:tag>
+    <s:tag>private label beef jerky</s:tag>
+    <s:tag>private label jerky</s:tag>
+    <s:tag>protein</s:tag>
+    <s:tag>protein snack</s:tag>
+    <s:variant>
+      <id>https://smokehousejerky.com/products/4772583833703</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>26</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://smokehousejerky.com/products/4772580720743</id>
+    <published>2021-01-16T22:26:11-08:00</published>
+    <updated>2021-01-16T22:26:11-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://smokehousejerky.com/products/original-flavored-beef-sticks"/>
+    <title>1/2 Pound of Original Flavored Beef Sticks</title>
+    <s:type>Beef Stick</s:type>
+    <s:vendor>Tender Heifer Snack Co</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2216/9951/products/OriginalBeefSticks.png?v=1610863227"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tender Heifer Snack Co<br>
+        <strong>Type: </strong>Beef Stick<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Get this 1/2 lb of premium beef sticks made from the best meat!</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>beef jerky maker</s:tag>
+    <s:tag>best jerky online</s:tag>
+    <s:tag>best jerky sample pack</s:tag>
+    <s:tag>best online jerky</s:tag>
+    <s:tag>best online jerkyonline</s:tag>
+    <s:tag>best protein snack</s:tag>
+    <s:tag>healthiest protein snack</s:tag>
+    <s:tag>healthiest snack</s:tag>
+    <s:tag>healthy snack</s:tag>
+    <s:tag>nutrition</s:tag>
+    <s:tag>nutrition snack</s:tag>
+    <s:tag>nutritional snack</s:tag>
+    <s:tag>private label beef jerky</s:tag>
+    <s:tag>private label jerky</s:tag>
+    <s:tag>protein</s:tag>
+    <s:tag>protein snack</s:tag>
+    <s:variant>
+      <id>https://smokehousejerky.com/products/4772580720743</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>26</s:grams>
+    </s:variant>
+  </entry>
+</feed>

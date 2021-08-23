@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://smokehousejerky.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://smokehousejerky.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://smokehousejerky.com/collections/sample-packs.atom"/>
+  <title>Smokehouse Jerky Co.</title>
+  <updated>2021-04-30T15:52:00-07:00</updated>
+  <author>
+    <name>Smokehouse Jerky Co.</name>
+  </author>
+  <entry>
+    <id>https://smokehousejerky.com/products/4709439930471</id>
+    <published>2021-04-30T15:52:00-07:00</published>
+    <updated>2021-04-30T15:52:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://smokehousejerky.com/products/3oz-turkey-variety-pack"/>
+    <title>Turkey Variety Pack</title>
+    <s:type></s:type>
+    <s:vendor>Tender Heifer Snack Co</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2216/9951/products/3ozTurkeyVarietyPack.png?v=1600824630"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tender Heifer Snack Co<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Get a 3oz bag of our delicious Turkey Jerky! We currently make Carolina Reaper, Korean BBQ, Southwest BBQ, Spicy Sweet, and Teriyaki. These are the same as our beef flavors.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>turkey jerky</s:tag>
+    <s:variant>
+      <id>https://smokehousejerky.com/products/4709439930471</id>
+      <title>Default Title</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>85</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://smokehousejerky.com/products/4530060132455</id>
+    <published>2020-06-29T11:10:03-07:00</published>
+    <updated>2020-06-29T11:10:03-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://smokehousejerky.com/products/bulk-beef-bacon-box"/>
+    <title>Beef &amp; Bacon Jerky Bulk Variety Pack</title>
+    <s:type>Beef Jerky</s:type>
+    <s:vendor>Tender Heifer Snack Co</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2216/9951/products/BulkVarietyPack_1.png?v=1600129998"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tender Heifer Snack Co<br>
+        <strong>Type: </strong>Beef Jerky<br>
+        <strong>Price: </strong>
+            140.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>﻿Direct To Your Door</strong></p>
+<p><strong>FREE SHIPPING</strong></p>
+<p><strong>SAVE $43.77 off the regular price</strong></p>
+<p>Get 3oz bags of all 20 Beef and 2oz bags of our 4 Bacon flavors. <strong></strong></p>
+<p>Jerky is the perfect shelf-stable food since it provides lots of protein and has a 12-month shelf-life.</p>
+<p>We use 100% USDA Brisket beef and the best bacon available on the market.</p>
+<br>
+<p style="text-align: center;"> <br></p>
+<p style="text-align: center;"> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beef Jerky</s:tag>
+    <s:tag>best jerky online</s:tag>
+    <s:tag>best online jerky</s:tag>
+    <s:tag>best online jerkyonline</s:tag>
+    <s:tag>best protein snack</s:tag>
+    <s:tag>bulk jerky</s:tag>
+    <s:tag>gluten free</s:tag>
+    <s:tag>healthiest protein snack</s:tag>
+    <s:tag>healthiest snack</s:tag>
+    <s:tag>healthy snack</s:tag>
+    <s:tag>nutrition snack</s:tag>
+    <s:tag>price_$101 to $150</s:tag>
+    <s:tag>protein</s:tag>
+    <s:tag>protein snack</s:tag>
+    <s:variant>
+      <id>https://smokehousejerky.com/products/4530060132455</id>
+      <title>Default Title</title>
+      <s:price currency="USD">140.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://smokehousejerky.com/products/1458280431719</id>
+    <published>2020-06-29T11:09:55-07:00</published>
+    <updated>2020-06-29T11:09:55-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://smokehousejerky.com/products/3oz-beef-sample-pack-16-flavors"/>
+    <title>Ultimate Brisket Beef Jerky Variety Pack (20) 3oz Bags</title>
+    <s:type>Beef Jerky</s:type>
+    <s:vendor>Tender Heifer Snack Co</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2216/9951/products/UltimateBeefJerkyVarietyPack.png?v=1600130852"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tender Heifer Snack Co<br>
+        <strong>Type: </strong>Beef Jerky<br>
+        <strong>Price: </strong>
+            120.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Treat your taste buds to soft, chewy beef jerky that's bursting with flavor because they deserve it and so do you. Sample all 20 of our delicious, tender and moist Brisket beef jerky in 3oz bags. Our smaller sample packs are great for 1-3 people doing a tasting, but our larger groups are requesting bigger bags for the games, office, team, shift and more.</p>
+<p>Take a sample pack to work and share with your co-workers or pass it around at the kids' soccer game. It's a great way to enjoy the finer things in life without the expense to match.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bacon Jerky</s:tag>
+    <s:tag>bacon jerky best deal</s:tag>
+    <s:tag>bacon jerky lowest price</s:tag>
+    <s:tag>bacon jerky price price</s:tag>
+    <s:tag>BACON JERKY SAMPLE PACK</s:tag>
+    <s:tag>barbecue beef jerky</s:tag>
+    <s:tag>barbeque beef jerky</s:tag>
+    <s:tag>BBQ</s:tag>
+    <s:tag>Beef Jerky</s:tag>
+    <s:tag>best american bacon jerky</s:tag>
+    <s:tag>best bacon jerky</s:tag>
+    <s:tag>best protein snack</s:tag>
+    <s:tag>bit bottle</s:tag>
+    <s:tag>boysenberry</s:tag>
+    <s:tag>carolina reaper</s:tag>
+    <s:tag>Cayenne</s:tag>
+    <s:tag>Cilantro</s:tag>
+    <s:tag>Ghost Pepper</s:tag>
+    <s:tag>gluten free</s:tag>
+    <s:tag>Habanero</s:tag>
+    <s:tag>healthiest protein snack</s:tag>
+    <s:tag>healthiest snack</s:tag>
+    <s:tag>healthy snack</s:tag>
+    <s:tag>Hot</s:tag>
+    <s:tag>hottest pepper</s:tag>
+    <s:tag>Jalapeno</s:tag>
+    <s:tag>knott&apos;s berry farm</s:tag>
+    <s:tag>korean bbq</s:tag>
+    <s:tag>Lime</s:tag>
+    <s:tag>mango</s:tag>
+    <s:tag>nutrition</s:tag>
+    <s:tag>nutrition snack</s:tag>
+    <s:tag>nutritional snack</s:tag>
+    <s:tag>orange</s:tag>
+    <s:tag>peppered beef jerky</s:tag>
+    <s:tag>protein</s:tag>
+    <s:tag>protein snack</s:tag>
+    <s:tag>Teriyaki</s:tag>
+    <s:tag>worlds best bacon jerky</s:tag>
+    <s:tag>worlds hottest pepper</s:tag>
+    <s:variant>
+      <id>https://smokehousejerky.com/products/1458280431719</id>
+      <title>Default Title</title>
+      <s:price currency="USD">120.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://smokehousejerky.com/products/1453612957799</id>
+    <published>2020-06-29T11:09:54-07:00</published>
+    <updated>2020-06-29T11:09:54-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://smokehousejerky.com/products/fall-promo-sample-pack"/>
+    <title>Super Beef &amp; Bacon Jerky Variety Pack (24) 1oz Bags</title>
+    <s:type>Beef Jerky</s:type>
+    <s:vendor>Tender Heifer Snack Co</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2216/9951/products/SuperBeef_BaconJerkyVarietyPack.png?v=1600130654"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tender Heifer Snack Co<br>
+        <strong>Type: </strong>Beef Jerky<br>
+        <strong>Price: </strong>
+            80.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Save when you purchase the Super Variety Pack<strong>, </strong>which includes all 20 beef and 4 bacon jerky flavors in 1oz bags. This is an opportunity to taste 24 of our gourmet flavors at a discount so you can find all your new favorite characters.</p>
+<p>With so many of our delicious flavors of beef and bacon jerky flavors, we understand the choices can be difficult and created this pack, so they don't have to be.</p>
+<p>You want to taste a little of this, a bit of that, and not spend a fortune finding your favorite flavors. We hear you.</p>
+<p>Take advantage of our <strong>Super Variety Pack</strong> today and get 24 of our custom and unique flavors.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>applewood bacon jerky</s:tag>
+    <s:tag>Bacon Jerky</s:tag>
+    <s:tag>bacon jerky best deal</s:tag>
+    <s:tag>bacon jerky lowest price</s:tag>
+    <s:tag>bacon jerky price price</s:tag>
+    <s:tag>BACON JERKY SAMPLE PACK</s:tag>
+    <s:tag>BBQ</s:tag>
+    <s:tag>Beef Jerky</s:tag>
+    <s:tag>best american bacon jerky</s:tag>
+    <s:tag>best bacon jerky</s:tag>
+    <s:tag>best protein snack</s:tag>
+    <s:tag>bit bottle</s:tag>
+    <s:tag>Cilantro</s:tag>
+    <s:tag>Ghost Pepper</s:tag>
+    <s:tag>gluten free</s:tag>
+    <s:tag>Habanero</s:tag>
+    <s:tag>healthiest protein snack</s:tag>
+    <s:tag>healthiest snack</s:tag>
+    <s:tag>healthy snack</s:tag>
+    <s:tag>Hot</s:tag>
+    <s:tag>Jalapeno</s:tag>
+    <s:tag>Lime</s:tag>
+    <s:tag>mango</s:tag>
+    <s:tag>nutrition</s:tag>
+    <s:tag>nutrition snack</s:tag>
+    <s:tag>nutritional snack</s:tag>
+    <s:tag>orange</s:tag>
+    <s:tag>peppered beef jerky</s:tag>
+    <s:tag>protein</s:tag>
+    <s:tag>protein snack</s:tag>
+    <s:tag>Sriracha</s:tag>
+    <s:tag>Teriyaki</s:tag>
+    <s:tag>western bbq bacon jerky</s:tag>
+    <s:tag>worlds best bacon jerky</s:tag>
+    <s:variant>
+      <id>https://smokehousejerky.com/products/1453612957799</id>
+      <title>Default Title</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://smokehousejerky.com/products/784494887015</id>
+    <published>2020-06-29T11:09:53-07:00</published>
+    <updated>2020-06-29T11:09:53-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://smokehousejerky.com/products/beef-jerky-sample-pack-12-flavors"/>
+    <title>Starter Brisket Beef Jerky Variety Pack (12) 1oz Bags</title>
+    <s:type>Beef Jerky</s:type>
+    <s:vendor>Tender Heifer Snack Co</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2216/9951/products/StarterBeefVarietyPack.png?v=1595740635"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tender Heifer Snack Co<br>
+        <strong>Type: </strong>Beef Jerky<br>
+        <strong>Price: </strong>
+            44.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This beef jerky sample pack contains 12 - 1oz random bags of beef jerky which gives you an opportunity to taste some of our flavors so you know which ones are your favorites.</p>
+<p>With so many of our delicious flavors of our Brisket Beef Jerky available, we understand the choices can be difficult, but they don't have to be. You want to taste a little of this, a little of that, and not spend a fortune finding your favorite flavors. We hear you. </p>
+<p>Take advantage of our Sample Pack and get 12 of our custom and unique 1oz flavors at a huge discount.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bacon Jerky</s:tag>
+    <s:tag>bacon jerky best deal</s:tag>
+    <s:tag>bacon jerky lowest price</s:tag>
+    <s:tag>bacon jerky price price</s:tag>
+    <s:tag>BACON JERKY SAMPLE PACK</s:tag>
+    <s:tag>BBQ</s:tag>
+    <s:tag>Beef Jerky</s:tag>
+    <s:tag>best american bacon jerky</s:tag>
+    <s:tag>best bacon jerky</s:tag>
+    <s:tag>best protein snack</s:tag>
+    <s:tag>bit bottle</s:tag>
+    <s:tag>Cilantro</s:tag>
+    <s:tag>Ghost Pepper</s:tag>
+    <s:tag>gluten free</s:tag>
+    <s:tag>Habanero</s:tag>
+    <s:tag>healthiest protein snack</s:tag>
+    <s:tag>healthiest snack</s:tag>
+    <s:tag>healthy snack</s:tag>
+    <s:tag>Hot</s:tag>
+    <s:tag>Jalapeno</s:tag>
+    <s:tag>Lime</s:tag>
+    <s:tag>mango</s:tag>
+    <s:tag>nutrition</s:tag>
+    <s:tag>nutrition snack</s:tag>
+    <s:tag>nutritional snack</s:tag>
+    <s:tag>orange</s:tag>
+    <s:tag>peppered beef jerky</s:tag>
+    <s:tag>protein</s:tag>
+    <s:tag>protein snack</s:tag>
+    <s:tag>Sriracha</s:tag>
+    <s:tag>Teriyaki</s:tag>
+    <s:tag>worlds best bacon jerky</s:tag>
+    <s:variant>
+      <id>https://smokehousejerky.com/products/784494887015</id>
+      <title>Default Title</title>
+      <s:price currency="USD">44.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
